@@ -30,5 +30,5 @@
 
 # TO DO
 
-[ ] Implementare gli id corrattemente
-[ ] Metodi per comunicare tra classi, nel modo descritto in [Structure]
+- [ ] Implementare gli id corrattemente
+- [ ] Metodi per comunicare tra classi, nel modo descritto in [Structure]
